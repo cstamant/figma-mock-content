@@ -1,9 +1,9 @@
 {
-    "name": "Default",
+    "name": "CoSchedule",
     "lists": [
         {
             "name": "First Names",
-            "url": "https://raw.githubusercontent.com/dominictarr/random-name/master/first-names.txt"
+            "path": "first-names.txt"
         },
         {
             "name": "Last Names",

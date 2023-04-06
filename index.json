@@ -12,6 +12,10 @@
         {
             "name": "Addresses",
             "path": "addresses.txt"
+        },
+        {
+            "name": "Projects",
+            "path": "projects.txt"
         }
     ]
 }
